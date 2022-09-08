@@ -1,0 +1,16 @@
+PODS:
+  - FaceRegistrationModule (0.1.0)
+
+DEPENDENCIES:
+  - FaceRegistrationModule (from `../`)
+
+EXTERNAL SOURCES:
+  FaceRegistrationModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FaceRegistrationModule: 16fb05c5a4c4ca115cc13bcfa1944de617ca9890
+
+PODFILE CHECKSUM: 26c285150183dbe3ab29182c0e4ffc3e5f9ded48
+
+COCOAPODS: 1.11.3
