@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FaceRegistrationModule_Tests' do
+  pod 'FaceRegistrationModule', :path => '../'
+  
+  
+end
